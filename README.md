@@ -48,11 +48,11 @@ Building hands-on labs using **real Cisco equipment** from my college network la
 
 | Lab | Topic | Status | Details |
 |-----|-------|--------|---------|
-| Lab 0 | Multiple host & configuration | ✅ Complete | [View →](./Lab-0-Basic-3-Subnets) |
-| Lab 1 | Static Routing (3 Routers) | ✅ Complete | [View →](./Lab-1-Static-Routing) |
-| Lab 2 | VLAN & Inter-VLAN Routing | ✅ Complete | [View →](./Lab-2-VLAN-Routing) |
-| Lab 3 | OSPF Dynamic Routing | ✅ Complete | [View →](./Lab-3-OSPF-Routing) |
-| Lab 4 | Firewall & ACL Security | ✅ Complete | [View →](./Lab-4-Firewall-ACL) |
+| Lab 1 | Multiple host & Router Configuration | ✅ Complete | [View →](./Lab-0-Basic-3-Subnets) |
+| Lab 2 | Static Routing (3 Routers) | ✅ Complete | [View →](./Lab-1-Static-Routing) |
+| Lab 3 | VLAN & Inter-VLAN Routing | ✅ Complete | [View →](./Lab-2-VLAN-Routing) |
+| Lab 4 | OSPF Dynamic Routing | ✅ Complete | [View →](./Lab-3-OSPF-Routing) |
+| Lab 5 | Firewall & ACL Security | ✅ Complete | [View →](./Lab-4-Firewall-ACL) |
 
 ---
 
